@@ -10,18 +10,17 @@ This repo currently contains a raw dataset (`deals_raw.csv`) intended to be impo
 - `README.md` — project documentation
 
 - The CSV (deals_raw.csv) includes these columns (from the header row):
-
-    collected_at
-    dealID
-    title
-    storeID
-    salePrice
-    normalPrice
-    savings
-    metacriticScore
-    steamRatingPercent
-    dealRating
-
+    - collected_at
+    - dealID
+    - title
+    - storeID
+    - salePrice
+    - normalPrice
+    - savings
+    - metacriticScore
+    - steamRatingPercent
+    - dealRating
+  
 ## Project goals
 
 - Store the raw dataset in a structured SQL database
